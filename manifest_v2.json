@@ -1,0 +1,37 @@
+{
+  "item": {
+    "id": "com.jpf.wrist.doodlejump",
+    "restype": "quick_app",
+    "name": "涂鸦跳跳",
+    "description": "抬起手腕，接住下一跳！为小米手环 9 Pro 制作的离线跳跃小游戏。\n左右倾斜控制落点，也可切换触屏操作；角色自动跳跃。\n在随机平台之间向上跳，收集星星、借助弹簧冲高，挑战本机最高纪录。\n支持暂停和重新开始。倾斜游玩时保持亮屏，失败后保留 15 秒亮屏时间。\n免费，无广告、无内购。已在小米手环 9 Pro 固件 3.1.175 上实机试玩。",
+    "preview": [
+      "media/preview-home.png",
+      "media/preview-play.png",
+      "media/preview-result.png",
+      "media/preview-tilt.png"
+    ],
+    "icon": "media/icon.png",
+    "cover": "media/cover.png",
+    "author": [
+      {
+        "name": "Jip79078",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmb9p": {
+      "version": "0.1.5",
+      "file_name": "downloads/doodle-jump-0.1.5.rpk",
+      "versionCode": 6,
+      "updatelogs": [
+        {
+          "version": "0.1.5",
+          "content": "免费首发，适配小米手环 9 Pro。\n支持左右倾斜和触屏操作、自动跳跃、星星收集及弹簧冲高。\n支持暂停、重新开始和本地最高纪录。\n倾斜游玩保持亮屏，失败后保留 15 秒亮屏时间。"
+        }
+      ]
+    }
+  },
+  "ext": {}
+}
